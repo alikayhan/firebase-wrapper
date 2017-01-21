@@ -1,0 +1,6 @@
+framework module Pods_Firebase_Wrapper {
+  umbrella header "Pods-Firebase Wrapper-umbrella.h"
+
+  export *
+  module * { export * }
+}
